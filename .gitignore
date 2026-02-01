@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+ENV/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Project specific
+history.txt
+his*.txt
+output.csv
+output*.csv
+reaction_summary.json
+reaction_summary*.json
+
+# Sensitive information
+config.py
+secrets.json
+*.secret
+
+# OS
+.DS_Store
+Thumbs.db
